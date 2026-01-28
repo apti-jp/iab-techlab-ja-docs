@@ -435,8 +435,8 @@ ads.txt ファイル仕様内の仕様バージョン番号または最終更新
 
 このディレクティブは、ドメインがビッドレベルの承認のために OpenRTB 仕様を使用してビッドリクエストで渡される場合にのみ適用されます：
 
-- _app.inventorypartnerdomain または_
-- _site.inventorypartnerdomain_
+- `app.inventorypartnerdomain` または
+- `site.inventorypartnerdomain`
 
 ## 5.8 OWNERDOMAIN DIRECTIVE (OWNERDOMAIN ディレクティブ)
 

@@ -437,8 +437,8 @@ The crawler should fetch entries at one hop from the originating app/ads.txt (an
 
 This directive is only applicable if the domain is passed in the bid request using the OpenRTB spec for bid level authorization:
 
-- _app.inventorypartnerdomain OR_
-- _site.inventorypartnerdomain_
+- `app.inventorypartnerdomain` OR
+- `site.inventorypartnerdomain`
 
 ## 5.8. OWNERDOMAIN DIRECTIVE
 
