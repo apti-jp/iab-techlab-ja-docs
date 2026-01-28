@@ -9,11 +9,12 @@
       {
         "tab": "日本語",
         "groups": [
-          {
-            "group": "Docs",
-            "pages": ["docs/index", "docs/ja/sellers-json"]
-          }
+          { "group": "Docs", "pages": ["docs/index", "docs/ja/sellers-json"] }
         ]
+      },
+      {
+        "tab": "English",
+        "groups": [{ "group": "Docs", "pages": ["docs/en/sellers-json"] }]
       }
     ]
   }
