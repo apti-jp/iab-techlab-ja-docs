@@ -98,11 +98,11 @@ The format logically consists of:
 
 - A non-empty set of records, separated by line breaks. The records consist of a set of lines of the form:
 
-  \<FIELD #1>, \<FIELD #2>, \<FIELD #3>, \<FIELD #4>
+  `<FIELD #1>, <FIELD #2>, <FIELD #3>, <FIELD #4>`
 
   or
 
-  \<VARIABLE>=\<VALUE>
+  `<VARIABLE>=<VALUE>`
 
 - Lines starting with # symbol are considered comments and are ignored.
 - Lines containing the data format have syntax defined in section 3.4
@@ -118,7 +118,7 @@ line must be included which adheres to the format specification described above.
 placeholder.example.com, placeholder, DIRECT, placeholder
 ```
 
-The domain "`example.com`" bears no significance: it is used here so that the line will start with a properly formatted, permanently reserved ([https://tools.ietf.org/html/rfc6761)](https://tools.ietf.org/html/rfc6761%29) alternative domain to a real advertising system domain.
+The domain "`example.com`" bears no significance: it is used here so that the line will start with a properly formatted, permanently reserved ([https://tools.ietf.org/html/rfc6761](https://tools.ietf.org/html/rfc6761)) alternative domain to a real advertising system domain.
 
 Prior versions of the ads.txt specification indicated that publishers may simply use an empty ads.txt file to indicate that no advertising system is authorized to buy or sell ads on the website. That method is now deprecated because of ambiguities it creates and should be ignored by consuming systems after March 1, 2020.
 
@@ -160,9 +160,9 @@ Extension fields are allowed by implementers and their consumers as long as they
 
 ## 3.5 VARIABLE DECLARATION RECORDS
 
-Any line containing a pattern of <VARIABLE>=<VALUE> should be interpreted as a variable declaration and the crawler should store the data associated with the root domain.
+Any line containing a pattern of `<VARIABLE>=<VALUE>` should be interpreted as a variable declaration and the crawler should store the data associated with the root domain.
 
-The <VARIABLE> is a string identifier without internal whitespace. The only supported separator is the equals sign ‘=’. The <VALUE> is an open string that may contain arbitrary data.
+The `<VARIABLE>` is a string identifier without internal whitespace. The only supported separator is the equals sign '='. The `<VALUE>` is an open string that may contain arbitrary data.
 
 The declaration line is terminated by the end-of-line marker. The consumer systems should liberally interpret CR, CRLF etc as a line separator.
 
@@ -431,7 +431,7 @@ based on what version of ads.txt a publisher is using. Instead, a crawler should
 
 In many cases, especially in Mobile and CTV video streaming apps (aka OTT apps) it is common to license and curate content from other companies, and to authorize distribution/retransmission of the content to multiple distributor apps.
 
-These relationships are enumerated via the INVENTORYPARTNERDOMAIN directive. Please see the “ads.txt for CTV explainer doc” (also available at [https://iabtechlab.com/ads-txt/)](https://iabtechlab.com/ads-txt/%29) for more details.
+These relationships are enumerated via the INVENTORYPARTNERDOMAIN directive. Please see the "ads.txt for CTV explainer doc" (also available at [https://iabtechlab.com/ads-txt/](https://iabtechlab.com/ads-txt/)) for more details.
 
 The crawler should fetch entries at one hop from the originating app/ads.txt (any inventorypartnerdomain entries in the partners’ ads.txt files should not be consumed)
 
