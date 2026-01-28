@@ -1,3 +1,8 @@
+---
+title: "Sellers.json"
+description: "Sellers.json Specification - Enables buyers to discover who the entities are that are either direct sellers or intermediaries in digital advertising"
+---
+
 Sellers.json
 
 July 2019

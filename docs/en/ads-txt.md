@@ -1,3 +1,8 @@
+---
+title: "ads.txt"
+description: "ads.txt Specification Version 1.1 - Allows publishers to publicly declare who is authorized to sell their inventory"
+---
+
 ads.txt
 
 Version 1.1

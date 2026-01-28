@@ -1,3 +1,8 @@
+---
+title: "Sellers.json"
+description: "Sellers.json 仕様 - バイヤーがデジタル広告の販売における直接のセラーまたは仲介者を発見できるようにする仕様"
+---
+
 Sellers.json
 
 July 2019
