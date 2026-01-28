@@ -1,11 +1,4 @@
 {
   "name": "IAB Tech Lab 日本語ドキュメント（試験公開）",
-  "favicon": "/favicon.svg",
-  "colors": { "primary": "#0B5FFF" },
-  "navigation": [
-    {
-      "group": "日本語",
-      "pages": ["docs", "docs/index", "docs/ja/sellers-json"]
-    }
-  ]
+  "favicon": "/favicon.svg"
 }

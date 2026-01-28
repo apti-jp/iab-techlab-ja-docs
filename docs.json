@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "IAB Tech Lab 日本語ドキュメント（試験公開）",
   "favicon": "/favicon.svg",
@@ -9,12 +8,20 @@
       {
         "tab": "日本語",
         "groups": [
-          { "group": "Docs", "pages": ["docs/index", "docs/ja/sellers-json"] }
+          {
+            "group": "Docs",
+            "pages": ["docs/index", "docs/ja/sellers-json"]
+          }
         ]
       },
       {
         "tab": "English",
-        "groups": [{ "group": "Docs", "pages": ["docs/en/sellers-json"] }]
+        "groups": [
+          {
+            "group": "Docs",
+            "pages": ["docs/en/sellers-json"]
+          }
+        ]
       }
     ]
   }
