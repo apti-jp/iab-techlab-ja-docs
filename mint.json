@@ -1,0 +1,9 @@
+{
+  "name": "IAB Tech Lab 日本語ドキュメント（試験公開）",
+  "navigation": [
+    {
+      "group": "Docs",
+      "pages": ["docs/index"]
+    }
+  ]
+}
