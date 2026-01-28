@@ -10,7 +10,7 @@
         "groups": [
           {
             "group": "Docs",
-            "pages": ["docs/index", "docs/ja/sellers-json"]
+            "pages": ["docs/ja/sellers-json"]
           }
         ]
       },
