@@ -1,5 +1,6 @@
 ---
 title: "Sellers.json"
+sidebarTitle: "sellers.json"
 description: "Sellers.json Specification - Enables buyers to discover who the entities are that are either direct sellers or intermediaries in digital advertising"
 ---
 
