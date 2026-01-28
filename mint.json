@@ -5,7 +5,7 @@
   "navigation": [
     {
       "group": "日本語",
-      "pages": ["docs/index"]
+      "pages": ["docs", "docs/index", "docs/ja/sellers-json"]
     }
   ]
 }
