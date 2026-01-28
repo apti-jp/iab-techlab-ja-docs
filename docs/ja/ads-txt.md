@@ -9,7 +9,7 @@ Version 1.1
 
 Released August 2022
 
-ご意見やご質問は support@iabtechlab.com までメールでお寄せください。このドキュメントは <https://iabtechlab.com/ads.txt/> でオンライン公開されています。
+ご意見やご質問は support@iabtechlab.com までメールでお寄せください。このドキュメントは [https://iabtechlab.com/ads.txt/](https://iabtechlab.com/ads.txt/) でオンライン公開されています。
 
 © IAB Technology Laboratory
 
@@ -264,7 +264,7 @@ orangeexchange.com, AB345, RESELLER
 
 この例は、異なる承認されたシステムのセットを持つ「インベントリパートナー」をクローラーに参照させるアプリ（またはウェブサイト）です。クローラーは、`inventorypartnerdomain` をドメインとして受け取り、そのパートナーの ads.txt ファイルからデータを取得して、アプリ（またはウェブサイト）の承認されたセラーリストに関連付けるための ads.txt URL を構築するべきです（SHOULD）。
 
-より詳細な実装情報とシナリオについては、実装ガイドを参照してください：<https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf> 注 - 2 番目の ads.txt ファイル内の `inventorypartnerdomain` エントリは処理しないべきです（SHOULD NOT）（ワンホップのみ追跡）。
+より詳細な実装情報とシナリオについては、実装ガイドを参照してください：[https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf](https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf) 注 - 2 番目の ads.txt ファイル内の `inventorypartnerdomain` エントリは処理しないべきです（SHOULD NOT）（ワンホップのみ追跡）。
 
 `http://devsite.vMVPDB.com/app-ads.txt`
 
@@ -326,7 +326,7 @@ inventorypartnerdomain=programmerA.com
 
 この変数が存在しない場合、`OWNERDOMAIN` は収益化されているドメインおよび ads.txt ファイルが見つかった場所と同じであると見なされるべきです（SHOULD）。
 
-より詳細な実装情報とシナリオについては、実装ガイドを参照してください：<https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+より詳細な実装情報とシナリオについては、実装ガイドを参照してください：[https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 この例では、"`MediaCompany.com`" は "`example.com`" のビジネスオーナーです。したがって、`example.com/ads.txt` ファイルにはビジネスオーナーを指定するエントリが含まれています。
 
@@ -342,7 +342,7 @@ greenadexchange.com, XF7342, DIRECT, 5jyxf8k54
 
 `MANAGERDOMAIN` 変数は、パブリッシャーと主要または独占的な収益化パートナーとの関係を表すために使用されるべきです（SHOULD）。これらの場合、`MANAGERDOMAIN` はパブリッシャーのインベントリを購入するための最も直接的なパスであるべきです（SHOULD）。
 
-より詳細な実装情報とシナリオについては、実装ガイドを参照してください：<https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+より詳細な実装情報とシナリオについては、実装ガイドを参照してください：[https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 `http://example.com/ads.txt`
 
@@ -444,13 +444,13 @@ ads.txt ファイル仕様内の仕様バージョン番号または最終更新
 
 `ExamplePublisher.com` は `example1.com` と `example2.com` を所有しています。
 
-より詳細な実装情報とシナリオについては、実装ガイドを参照してください：<https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+より詳細な実装情報とシナリオについては、実装ガイドを参照してください：[https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 ## 5.9 MANAGERDOMAIN DIRECTIVE (MANAGERDOMAIN ディレクティブ)
 
 エコシステム内のさまざまな関係を明確にするために、仕様が更新され、パブリッシャーがドメイン/アプリを所有するビジネスエンティティを指定し、収益化を他社に委託している場合のマネージャー（例：セールスハウス）を宣言できるようになりました。
 
-より詳細な実装情報とシナリオについては、実装ガイドを参照してください：<https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+より詳細な実装情報とシナリオについては、実装ガイドを参照してください：[https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 # 6. SCOPE AND FUTURE DIRECTIONS (範囲と今後の方向性)
 

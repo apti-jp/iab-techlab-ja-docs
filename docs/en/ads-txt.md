@@ -9,7 +9,7 @@ Version 1.1
 
 Released August 2022
 
-Please email support@iabtechlab.com with feedback or questions. This document is available online at <https://iabtechlab.com/ads.txt/>
+Please email support@iabtechlab.com with feedback or questions. This document is available online at [https://iabtechlab.com/ads.txt/](https://iabtechlab.com/ads.txt/)
 
 © IAB Technology Laboratory
 
@@ -266,7 +266,7 @@ orangeexchange.com, AB345, RESELLER
 
 This example is an app (or a website) that refers the crawler to an “inventory partner” with a different set of authorized systems. The crawler should take the _inventorypartnerdomain_ as a domain and construct an ads.txt URL to fetch data from the partner’s ads.txt file and and associate it to the app (or website)’s authorized sellers list.
 
-For more detailed implementation information and scenarios, please refer to the implementation guide: <https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf> Note - Any inventorypartnerdomain entries in the second ads.txt file should NOT be processed (only follow one hop)
+For more detailed implementation information and scenarios, please refer to the implementation guide: [https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf](https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf) Note - Any inventorypartnerdomain entries in the second ads.txt file should NOT be processed (only follow one hop)
 
 `http://devsite.vMVPDB.com/app-ads.txt`
 
@@ -328,7 +328,7 @@ The OWNERDOMAIN variable will be used to connect the sellers.domain in a sellers
 
 If this variable is absent, it should be assumed that the OWNERDOMAIN is the same as the domain being monetized and where the ads.txt file was found.
 
-For more detailed implementation information and scenarios, please refer to the implementation guide: <https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+For more detailed implementation information and scenarios, please refer to the implementation guide: [https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 In this example “`MediaCompany.com`” is the business owner of “`example.com`”. Therefore, the example.com/ads.txt file includes an entry to specify the business owner.
 
@@ -344,7 +344,7 @@ greenadexchange.com, XF7342, DIRECT, 5jyxf8k54
 
 The MANAGERDOMAIN variable should be used to represent a publisher’s relationship with a primary or exclusive monetization partner. In these instances, the MANAGERDOMAIN should be the most direct path to purchase the publisher’s inventory.
 
-For more detailed implementation information and scenarios, please refer to the implementation guide: <https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+For more detailed implementation information and scenarios, please refer to the implementation guide: [https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 `http://example.com/ads.txt`
 
@@ -446,13 +446,13 @@ Many publishers and app developers own and monetize multiple domains (sites) and
 
 `ExamplePublisher.com` owns `example1.com` and `example2.com`.
 
-For more detailed implementation information and scenarios, please refer to the implementation guide: <https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+For more detailed implementation information and scenarios, please refer to the implementation guide: [https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 ## 5.9 MANAGERDOMAIN DIRECTIVE
 
 To help clarify various relationships in the ecosystem, the spec has been updated to allow publishers to specify the business entity that owns a domain/app, and declare managers (e.g., sales houses) if they outsource monetization to another company.
 
-For more detailed implementation information and scenarios, please refer to the implementation guide: <https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf>
+For more detailed implementation information and scenarios, please refer to the implementation guide: [https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf)
 
 # 6. SCOPE AND FUTURE DIRECTIONS
 
