@@ -1,5 +1,5 @@
 ---
-title: "ads.txt"
+title: "ads.txt version 1.1"
 description: "ads.txt 仕様 Version 1.1 - パブリッシャーが自社のインベントリの販売権限を持つ者を公に宣言できるようにする仕様"
 ---
 

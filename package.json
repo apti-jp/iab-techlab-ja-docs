@@ -1,0 +1,7 @@
+{
+  "name": "iab-techla-ja-docs",
+  "private": true,
+  "scripts": {
+    "start": "bash scripts/start-mintlify.sh"
+  }
+}

@@ -10,7 +10,11 @@
         "groups": [
           {
             "group": "Docs",
-            "pages": ["docs/ja/ads-txt", "docs/ja/sellers-json"]
+            "pages": [
+              "docs/ja/ads-txt",
+              "docs/ja/app-ads-txt",
+              "docs/ja/sellers-json"
+            ]
           }
         ]
       },
@@ -19,7 +23,11 @@
         "groups": [
           {
             "group": "Docs",
-            "pages": ["docs/en/ads-txt", "docs/en/sellers-json"]
+            "pages": [
+              "docs/en/ads-txt",
+              "docs/en/app-ads-txt",
+              "docs/en/sellers-json"
+            ]
           }
         ]
       }
