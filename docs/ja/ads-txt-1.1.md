@@ -1,12 +1,7 @@
 ---
-title: "ads.txt version 1.1"
-description: "ads.txt 仕様 Version 1.1 - パブリッシャーが自社のインベントリの販売権限を持つ者を公に宣言できるようにする仕様"
+title: "ads.txt 1.1"
+description: "広告主と販売者の関係を公開するためのテキストファイル仕様。パブリッシャーが認定された販売者を明示することで、広告詐欺の防止と透明性の向上を図ります。"
 ---
-
-ads.txt
-
-Version 1.1
-
 Released August 2022
 
 ご意見やご質問は support@iabtechlab.com までメールでお寄せください。このドキュメントは [https://iabtechlab.com/ads.txt/](https://iabtechlab.com/ads.txt/) でオンライン公開されています。

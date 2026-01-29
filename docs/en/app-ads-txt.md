@@ -1,6 +1,6 @@
 ---
-title: "app-ads.txt version 1.0"
-description: "app-ads.txt Specification Version 1.0 - Allows publishers to publicly declare who is authorized to sell their inventory"
+title: "app-ads.txt 1.0"
+description: "The ads.txt specification for mobile applications. It clarifies authorized seller relationships in in-app advertising and ensures transparency in app advertising."
 ---
 Authorized Sellers for Apps (app-ads.txt)
 

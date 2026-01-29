@@ -1,12 +1,7 @@
 ---
-title: "ads.txt version 1.1"
-description: "ads.txt Specification Version 1.1 - Allows publishers to publicly declare who is authorized to sell their inventory"
+title: "ads.txt 1.1"
+description: "A text file specification for declaring authorized sellers. Publishers can specify their authorized sellers to prevent ad fraud and improve transparency in the advertising supply chain."
 ---
-
-ads.txt
-
-Version 1.1
-
 Released August 2022
 
 Please email support@iabtechlab.com with feedback or questions. This document is available online at [https://iabtechlab.com/ads.txt/](https://iabtechlab.com/ads.txt/)

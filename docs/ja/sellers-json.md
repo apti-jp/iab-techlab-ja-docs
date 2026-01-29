@@ -1,7 +1,7 @@
 ---
 title: "Sellers.json"
 sidebarTitle: "sellers.json"
-description: "Sellers.json 仕様 - バイヤーがデジタル広告の販売における直接のセラーまたは仲介者を発見できるようにする仕様"
+description: "広告技術プロバイダーが販売者情報を公開するためのJSON仕様。ads.txtと連携して、サプライチェーン全体の透明性を実現します。"
 ---
 
 Sellers.json

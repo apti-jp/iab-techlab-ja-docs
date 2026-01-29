@@ -1,20 +1,32 @@
 {
   "theme": "mint",
-  "name": "IAB Tech Lab 日本語ドキュメント（試験公開）",
+  "name": "IAB Tech Lab Docs",
   "favicon": "/favicon.svg",
   "colors": { "primary": "#0B5FFF" },
   "navigation": {
     "tabs": [
       {
-        "tab": "日本語",
+        "tab": "Japanese",
         "groups": [
           {
-            "group": "Docs",
+            "group": "Ads.txt / App-ads.txt",
             "pages": [
-              "docs/ja/ads-txt",
+              "docs/ja/ads-txt-1.1",
+              "docs/ja/ads-txt-1.1-implementation-guide",
               "docs/ja/app-ads-txt",
-              "docs/ja/sellers-json"
+              "docs/ja/ctv-app-ads-explainer-guide"
             ]
+          },
+          {
+            "group": "Demand Side Transparency",
+            "pages": [
+              "docs/ja/buyers-json-1.0",
+              "docs/ja/demand-chain-object-1.0"
+            ]
+          },
+          {
+            "group": "Supply Side Transparency",
+            "pages": ["docs/ja/sellers-json", "docs/ja/supply-chain-object"]
           }
         ]
       },
@@ -22,12 +34,24 @@
         "tab": "English",
         "groups": [
           {
-            "group": "Docs",
+            "group": "Ads.txt / App-ads.txt",
             "pages": [
-              "docs/en/ads-txt",
+              "docs/en/ads-txt-1.1",
+              "docs/en/ads-txt-1.1-implementation-guide",
               "docs/en/app-ads-txt",
-              "docs/en/sellers-json"
+              "docs/en/ctv-app-ads-explainer-guide"
             ]
+          },
+          {
+            "group": "Demand Side Transparency",
+            "pages": [
+              "docs/en/buyers-json-1.0",
+              "docs/en/demand-chain-object-1.0"
+            ]
+          },
+          {
+            "group": "Supply Side Transparency",
+            "pages": ["docs/en/sellers-json", "docs/en/supply-chain-object"]
           }
         ]
       }

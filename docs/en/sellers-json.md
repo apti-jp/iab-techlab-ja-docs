@@ -1,7 +1,7 @@
 ---
 title: "Sellers.json"
 sidebarTitle: "sellers.json"
-description: "Sellers.json Specification - Enables buyers to discover who the entities are that are either direct sellers or intermediaries in digital advertising"
+description: "A JSON specification for ad tech providers to publish seller information. It works in conjunction with ads.txt to achieve transparency across the entire supply chain."
 ---
 
 Sellers.json

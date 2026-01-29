@@ -1,9 +1,7 @@
 ---
-title: "app-ads.txt version 1.0"
-description: "パブリッシャーが、自社の在庫を販売する権限を持つ者を公に宣言できるようにする仕様"
+title: "app-ads.txt 1.0"
+description: "モバイルアプリ向けのads.txt仕様。アプリ内広告における認定販売者の関係を明確にし、アプリ広告の透明性を確保します。"
 ---
-Authorized Sellers for Apps (app-ads.txt)
-
 Final specification version 1.0 March 2019
 
 # About ads.txt and app-ads.txt (ads.txt と app-ads.txt について)
