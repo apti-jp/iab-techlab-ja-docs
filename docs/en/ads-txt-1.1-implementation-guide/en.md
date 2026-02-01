@@ -58,7 +58,7 @@ the underlying domain being sold?
 
 #### Publisher -> Exchange -> DSP
 
-![ ads-txt-1.1-implementation-guide/Figure1](./ ads-txt-1.1-implementation-guide/Figure1.png)
+![images/Figure1](./images/Figure1.png)
 
 | **Bid Request** | **Publisher’s Authorized Sellers (Ads.txt)** | **Sellers.json** | **Validation** | **Answer** |
 | --- | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ the underlying domain being sold?
 
 #### Publisher -> Manager -> Exchange -> DSP
 
-![ ads-txt-1.1-implementation-guide/Figure2](./ ads-txt-1.1-implementation-guide/Figure2.png)
+![images/Figure2](./images/Figure2.png)
 
 See request/response table on the next page.
 
@@ -84,7 +84,7 @@ See request/response table on the next page.
 
 #### Publisher -> Manager + GEO -> Exchange -> DSP
 
-![ ads-txt-1.1-implementation-guide/Figure3](./ ads-txt-1.1-implementation-guide/Figure3.png)
+![images/Figure3](./images/Figure3.png)
 
 See request/response table on the next page.
 
@@ -98,7 +98,7 @@ See request/response table on the next page.
 
 #### Publisher -> Proprietary Placement -> DSP
 
-![ ads-txt-1.1-implementation-guide/Figure4](./ ads-txt-1.1-implementation-guide/Figure4.png)
+![images/Figure4](./images/Figure4.png)
 
 See request/response table on the next page.
 
@@ -112,7 +112,7 @@ See request/response table on the next page.
 
 #### Publisher -> Proprietary Placement -> Exchange -> DSP
 
-![ ads-txt-1.1-implementation-guide/Figure5](./ ads-txt-1.1-implementation-guide/Figure5.png)
+![images/Figure5](./images/Figure5.png)
 
 See request/response table on the next page.
 
@@ -126,7 +126,7 @@ See request/response table on the next page.
 
 #### Publisher -> Exchange -> DSP
 
-[ ads-txt-1.1-implementation-guide/Figure6](./ ads-txt-1.1-implementation-guide/Figure6.png)
+[images/Figure6](./images/Figure6.png)
 
 See request/response table on the next page.
 
@@ -140,7 +140,7 @@ See request/response table on the next page.
 
 #### Publisher -> Manager -> Exchange -> DSP
 
-![ ads-txt-1.1-implementation-guide/Figure7](./ ads-txt-1.1-implementation-guide/Figure7.png)
+![images/Figure7](./images/Figure7.png)
 
 See request/response table on the next page.
 
