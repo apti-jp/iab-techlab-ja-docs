@@ -3,6 +3,12 @@
   "name": "IAB Tech Lab Docs",
   "favicon": "/favicon.svg",
   "colors": { "primary": "#0B5FFF" },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/docs/intro"
+    }
+  ],
   "navigation": {
     "tabs": [
       {
