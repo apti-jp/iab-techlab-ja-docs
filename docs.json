@@ -37,6 +37,10 @@
           {
             "group": "OpenRTB",
             "pages": ["docs/ja/openrtb-3.0/ja"]
+          },
+          {
+            "group": "Agentic",
+            "pages": ["docs/ja/agentic-rtb-framework-1.0"]
           }
         ]
       },
@@ -66,6 +70,10 @@
           {
             "group": "OpenRTB",
             "pages": ["docs/en/openrtb-3.0/en"]
+          },
+          {
+            "group": "Agentic",
+            "pages": ["docs/en/agentic-rtb-framework-1.0"]
           }
         ]
       }
