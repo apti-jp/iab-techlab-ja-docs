@@ -3,10 +3,18 @@ title: "Sellers.json"
 sidebarTitle: "sellers.json"
 description: "広告技術プロバイダーが販売者情報を公開するためのJSON仕様。ads.txtと連携して、サプライチェーン全体の透明性を実現します。"
 ---
-
-Sellers.json
-
 July 2019
+
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [Sellers.json](https://iabtechlab.com/wp-content/uploads/2019/07/Sellers.json_Final.pdf) |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
 
 # Abstract（概要）
 

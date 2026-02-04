@@ -8,6 +8,17 @@ Released August 2022
 
 © IAB Technology Laboratory
 
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [ads.txt 1.1 Implementation Guide](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1-Implementation-Guide.pdf) |
+| ライセンス | 原文に明示なし |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
+
 # 1. Background (背景)
 
 2017 年の導入以来、Authorized Digital Sellers (ads.txt) は、プログラマティックエコシステムにおける不正、特に不当表示（別名「ドメインなりすまし」）や広告インベントリの不正販売を減らすための成功したツールとなってきました。その後の sellers.json と SupplyChain オブジェクトの作成により、セラーの追加開示が進み、サプライチェーン全体の透明性が向上しました。これらの仕様がほぼ全面的に採用されたことで、バイヤーは ads.txt、sellers.json、OpenRTB SupplyChain を組み合わせて使用し、サプライチェーンのより包括的なビューを持つことが可能になりました。

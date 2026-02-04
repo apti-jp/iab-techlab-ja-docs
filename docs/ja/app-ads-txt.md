@@ -4,6 +4,17 @@ description: "モバイルアプリ向けのads.txt仕様。アプリ内広告�
 ---
 Final specification version 1.0 March 2019
 
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [Authorized Sellers for Apps (app-ads.txt) v1.0](https://iabtechlab.com/wp-content/uploads/2019/03/app-ads.txt-v1.0-final-.pdf) |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
+
 # About ads.txt and app-ads.txt (ads.txt と app-ads.txt について)
 
 ads.txt 仕様は 2017 年春に開発され、デスクトップおよびモバイルウェブインベントリをカバーしています。このドキュメントでは、モバイルアプリストア、コネクテッドテレビアプリストア、およびその他同様の配信チャネルを通じて配布されるソフトウェアアプリケーションの要件を満たすための、元の ads.txt 標準の拡張について説明します。Authorized Sellers for Apps (app-ads.txt) は、OpenRTB ワーキンググループの支援を受けて開発された、ピアレビュー済みの標準規格です。本ドキュメントおよび補足の ads.txt 仕様は、[https://iabtechlab.com/ads-txt](https://iabtechlab.com/ads-txt) で入手可能です。

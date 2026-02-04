@@ -8,6 +8,17 @@ Released June 2021
 
 © IAB Technology Laboratory
 
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [buyers.json v1.0](https://iabtechlab.com/wp-content/uploads/2021/03/buyers-json-1-0.pdf) |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
+
 # About IAB Tech Lab（IAB Tech Lab について）
 
 IAB Technology Laboratory は、グローバルな業界技術標準とソリューションを作成し、企業の導入を支援する非営利の研究開発コンソーシアムです。Tech Lab の目標は、デジタル広告およびマーケティングのサプライチェーンに関連する摩擦を減らしながら、業界の安全な成長に貢献することです。

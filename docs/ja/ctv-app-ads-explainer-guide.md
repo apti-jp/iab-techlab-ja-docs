@@ -6,6 +6,17 @@ Released March 2021
 
 フィードバックや質問は openRTB@iabtechlab.com または support@iabtechlab.com までメールでお送りください。このドキュメントは [https://iabtechlab.com/ads-txt/](https://iabtechlab.com/ads-txt/) でオンライン利用可能です。
 
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [ads.txt & app-ads.txt: Guidance for Inventory Sharing](https://iabtechlab.com/wp-content/uploads/2021/03/ctv-app-ads-explainer-guide.pdf) |
+| ライセンス | 原文に明示なし |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
+
 # Background（背景）
 
 コネクテッド TV（CTV）市場では、複雑な収益化関係が頻繁に発生するため、現在設計されている ads.txt および app-ads.txt は、広範な採用には不十分です。（*これらの関係は CTV 環境や OTT コンテンツ配信に固有のものではありませんが、CTV/OTT コンテキストでの発生頻度がはるかに高いため、この問題の解決が特に必要になっています。*）これらのガイドラインと仕様の拡張は、複数のエンティティが広告枠に対する所有権を持つ可能性があるサイトやアプリをよりシームレスにサポートすることを目的としています。これは一般に**「インベントリ共有（Inventory Sharing）」**と呼ばれます。OTT では、これらの状況は、コンテンツ配信（MVPD や vMVPD）などの関係や、さまざまな配信契約（TV Everywhere）の結果として発生することがよくあります。最終的に、ほぼすべての関係は、「アプリ/サイトの所有者以外のビジネスエンティティが、アプリ/サイト内の広告枠の一部に対する所有権と、そのインベントリを販売する権利を持っている」というケースに単純化できます。

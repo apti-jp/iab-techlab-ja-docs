@@ -8,6 +8,17 @@ Released November 12, 2025
 
 © 2025 IAB Technology Laboratory
 
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [Agentic RTB Framework v1.0](https://iabtechlab.com/agentic-rtb-framework-specification-v1-0/) |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
+
 # About this document（このドキュメントについて）
 
 Agentic RTB Framework（エージェンティック RTB フレームワーク）仕様は、ホストプラットフォーム内で動作し、オーケストレーションプラットフォームが共有目標を達成するために直接呼び出すことができるエージェントサービスを実装するための基盤を定義します。このモデルは、ホストのインフラストラクチャにデプロイされたコンテナを活用して、ビッドストリーム処理の重要な側面を、最小限のコスト、レイテンシ、および運用への影響で、一貫した方法でサービスエージェントに委譲することを可能にします。このフレームワークは、コンテナのランタイム動作の標準要件を確立し、信頼性が高く、保護され、プライベートなビッドストリームのミューテーション（変更）を可能にする API を定義することによってこれを実現します。

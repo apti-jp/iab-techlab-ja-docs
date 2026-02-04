@@ -8,6 +8,17 @@ Released August 2022
 
 © IAB Technology Laboratory
 
+# このドキュメントについて
+
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [ads.txt Version 1.1](https://iabtechlab.com/wp-content/uploads/2022/04/Ads.txt-1.1.pdf) |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+
+※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
+
 # About ads.txt (ads.txt について)
 
 ads.txt 仕様は 2017 年春に開発されました。本ドキュメントは ads.txt 仕様バージョン 1.1 の最終版であり、Programmatic Supply Chain ワーキンググループの支援を受けて開発された、ピアレビュー済みの標準規格です。このドキュメントは [https://iabtechlab.com/ads-txt](https://iabtechlab.com/ads-txt) で入手可能です。

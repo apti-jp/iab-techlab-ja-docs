@@ -4,6 +4,13 @@ description: "リアルタイム入札（RTB）インターフェースの標準
 ---
 March 2022
 
+| 項目 | 内容 |
+|------|------|
+| 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
+| 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
+| 原文 | [OpenRTB Specification v3.0](https://github.com/InteractiveAdvertisingBureau/openrtb/blob/main/OpenRTB%20v3.0%20FINAL.md) |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+
 **About the IAB Technology Lab (IAB Technology Lab について)**
 
 IAB Technology Laboratory は、非営利の研究開発コンソーシアムであり、企業が世界的な業界技術標準とソリューションを実装するのを支援し、作成することを任務としています。Tech Lab の目標は、デジタル広告およびマーケティングのサプライチェーンに関連する摩擦を減らしながら、業界の安全な成長に貢献することです。
