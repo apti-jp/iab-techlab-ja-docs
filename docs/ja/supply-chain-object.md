@@ -9,7 +9,7 @@ description: "OpenRTB SupplyChain object specification"
 | 翻訳 | Advertisers and Publishers Transparency Initiative (APTI) |
 | 原著者 | IAB Technology Laboratory (IAB Tech Lab) |
 | 原文 | [OpenRTB SupplyChain Object](https://github.com/InteractiveAdvertisingBureau/openrtb/blob/main/supplychainobject.md) |
-| ライセンス | 原文に明示なし |
+| ライセンス | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 
 ※この翻訳は、IAB Tech Lab による公式なものではありません。翻訳の正確性については翻訳者が責任を負います。
 
