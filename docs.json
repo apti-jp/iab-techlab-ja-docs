@@ -40,7 +40,7 @@
           },
           {
             "group": "Agentic",
-            "pages": ["docs/ja/agentic-rtb-framework-1.0"]
+            "pages": ["docs/ja/agentic-rtb-framework-1.0", "docs/ja/deal-api-1.0"]
           }
         ]
       },
@@ -73,7 +73,7 @@
           },
           {
             "group": "Agentic",
-            "pages": ["docs/en/agentic-rtb-framework-1.0"]
+            "pages": ["docs/en/agentic-rtb-framework-1.0", "docs/en/deal-api-1.0"]
           }
         ]
       }

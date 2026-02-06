@@ -46,8 +46,9 @@ IAB Tech Lab が提供する各種仕様の日本語訳および英語版をま�
 - **ads.txt 1.1 Implementation Guide** - ads.txt の実装ガイド
 - **CTV App Ads Explainer Guide** - CTV（コネクテッドTV）アプリにおける ads.txt の解説ガイド
 
-#### 新技術
+#### Agentic
 - **Agentic RTB Framework 1.0** - OpenRTB およびデジタル広告におけるエージェント駆動型コンテナの使用に関する仕様
+- **Deal Sync API Specification** - バイサイドとセルサイドのプラットフォーム間でディール情報を同期するための API 仕様
 
 ---
 
